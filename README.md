@@ -11,12 +11,30 @@
 <br><br>
 ***
 <br><br>
-**5월 n주차**
-<details><summary>5월 n주차 문제</summary>
+**5월**
+<details><summary>5월 3주차 문제</summary>
 
-<details><summary>5/n 문제</summary>
+<details><summary>5/17 문제</summary>
 
 - 백준 알고리즘 : 과제 안내신분?  - 기초 배열 문제
   - https://www.acmicpc.net/problem/5597 
-
+- 백준 알고리즘 : 과제 안내신분?  - 기초 배열 문제
+  - https://www.acmicpc.net/problem/5597
+- 백준 알고리즘 : 과제 안내신분?  - 기초 배열 문제
+  - https://www.acmicpc.net/problem/5597 
+- 백준 알고리즘 : 과제 안내신분?  - 기초 배열 문제
+  - https://www.acmicpc.net/problem/5597 
+- 백준 알고리즘 : 과제 안내신분?  - 기초 배열 문제
+  - https://www.acmicpc.net/problem/5597 
+- 백준 알고리즘 : 과제 안내신분?  - 기초 배열 문제
+  - https://www.acmicpc.net/problem/5597 
+- 백준 알고리즘 : 과제 안내신분?  - 기초 배열 문제
+  - https://www.acmicpc.net/problem/5597 
+- 백준 알고리즘 : 과제 안내신분?  - 기초 배열 문제
+  - https://www.acmicpc.net/problem/5597 
+- 백준 알고리즘 : 과제 안내신분?  - 기초 배열 문제
+  - https://www.acmicpc.net/problem/5597 
+- 백준 알고리즘 : 과제 안내신분?  - 기초 배열 문제
+  - https://www.acmicpc.net/problem/5597 
+ 
 </details>
