@@ -18,8 +18,8 @@
 
 - 백준 알고리즘 : 11382번: 꼬마 정민  - 기초 출력 문제
   - https://www.acmicpc.net/problem/11382
-- 백준 알고리즘 : 2480번: 주사위 세개  - 조건문 문제
-  - https://www.acmicpc.net/problem/2480
+- 백준 알고리즘 : 9498번: 시험 성적  - 조건문 문제
+  - https://www.acmicpc.net/problem/9498
 - 백준 알고리즘 : 2439번: 별 찍기 - 2  - 반복문 문제
   - https://www.acmicpc.net/problem/2439
 - 백준 알고리즘 : 10871번: X보다 작은 수  - 1차원 배열 문제
