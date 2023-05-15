@@ -30,7 +30,7 @@
   - https://www.acmicpc.net/problem/2738
 - 백준 알고리즘 : 2908번: 상수  - 문자열/복합 문제
   - https://www.acmicpc.net/problem/2908
- <br>도전<br>
+ <br><br>도전<br><br>
 - 백준 알고리즘 : 2444번: 별 찍기 - 7  - 복합 문제
   - https://www.acmicpc.net/problem/2444
 - 백준 알고리즘 : 10988번: 팰린드롬인지 확인하기  - 문자열/복합 문제
